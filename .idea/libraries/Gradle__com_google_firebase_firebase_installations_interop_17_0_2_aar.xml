@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-installations-interop:17.0.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/778ae47cd602fca0ab4d1d163c8d492e/transformed/firebase-installations-interop-17.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f7001583e85332ed9a6a09d34b5e508f/transformed/firebase-installations-interop-17.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/92c437192c0678870f7681328582b5ee/transformed/firebase-installations-interop-17.0.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/92c437192c0678870f7681328582b5ee/transformed/firebase-installations-interop-17.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/92c437192c0678870f7681328582b5ee/transformed/firebase-installations-interop-17.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-installations-interop/17.0.2/766ca5cd5c82816dadcc6951557d8f0e37b720a4/firebase-installations-interop-17.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
