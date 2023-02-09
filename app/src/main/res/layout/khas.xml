@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat   xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".khas"
+    android:orientation="vertical"
+    android:paddingTop="70dp">
+
+
+    <FrameLayout
+        android:id="@+id/frameLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="240dp"
+        android:gravity="center">
+
+            <com.example.plac.Buttun
+            android:id="@+id/btn_find"
+            android:layout_width="168dp"
+            android:layout_height="63dp"
+            android:layout_marginLeft="220dp"
+            android:layout_marginTop="130dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginBottom="190dp"
+            android:background="@drawable/bg_prime1"
+            android:text="پیدا کردن"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:textColor="#630000" />
+
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="380dp"
+            android:layout_height="104dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="0dp"
+            android:gravity="center"
+            android:src="@drawable/_0962157_1024x220" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/edt_txt2"
+            android:layout_width="65dp"
+            android:layout_height="113dp"
+            android:layout_marginLeft="130dp"
+            android:layout_marginTop="-9dp"
+            android:background="#00111111"
+            android:gravity="center"
+            android:hint="ن"
+            android:textColor="#111"
+            android:textColorHint="#52F31111"
+            android:textSize="48dp" />
+
+        <TextView
+            android:id="@+id/edt_txt2"
+            android:layout_width="56dp"
+            android:layout_height="55dp"
+            android:layout_marginLeft="135dp"
+            android:layout_marginTop="20dp"
+            android:background="@color/white" />
+
+
+    </FrameLayout>
+
+    <ScrollView
+        android:id="@+id/nestedScrollView"
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:layout_marginBottom="70dp"
+        android:padding="2dp">
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:orientation="vertical">
+
+
+            <com.example.plac.Textveiev
+                android:id="@+id/txt_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="8dp"
+                android:background="@drawable/button"
+                android:gravity="right"
+                android:textColor="#000000"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_end="530dp" />
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_begin="77dp" />
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_end="318dp" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.9" />
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>

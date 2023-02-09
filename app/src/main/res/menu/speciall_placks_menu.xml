@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item android:id="@+id/item1" android:title="ف"/>
+    <item android:id="@+id/item2" android:title="ژ"/>
+    <item android:id="@+id/item3" android:title="الف"/>
+    <item android:id="@+id/item4" android:title="ت"/>
+    <item android:id="@+id/item5" android:title="پ"/>
+    <item android:id="@+id/item7" android:title="گ"/>
+    <item android:id="@+id/item8" android:title="ث"/>
+    <item android:id="@+id/item9" android:title="ع"/>
+    <item android:id="@+id/item10" android:title="ش"/>
+    <item android:id="@+id/item11" android:title="ز"/>
+    <item android:id="@+id/item12" android:title="ک"/>
+    <item android:id="@+id/item13" android:title="S"/>
+    <item android:id="@+id/item14" android:title="D"/>
+    <item android:id="@+id/item16" android:title="تشریفات"/>
+
+</menu>
