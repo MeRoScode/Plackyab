@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"  >
+
+    <item android:title="ب" android:id="@+id/item1" />
+    <item android:title="د" android:id="@+id/item2" />
+    <item android:title="س" android:id="@+id/item3" />
+    <item android:title="ص" android:id="@+id/item4" />
+    <item android:title="ج" android:id="@+id/item5" />
+    <item android:title="ط" android:id="@+id/item6" />
+    <item android:title="ق" android:id="@+id/item7" />
+    <item android:title="ل" android:id="@+id/item8" />
+    <item android:title="م" android:id="@+id/item9" />
+    <item android:title="ن" android:id="@+id/item10" />
+    <item android:title="ه" android:id="@+id/item11" />
+    <item android:title="و" android:id="@+id/item12" />
+    <item android:title="ی" android:id="@+id/item13" />
+</menu>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "251425182936",
+    "project_id": "pelak-yab",
+    "storage_bucket": "pelak-yab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251425182936:android:e8a40682f47aedcc0bb3ad",
+        "android_client_info": {
+          "package_name": "com.MoRsSoft.PelakYab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251425182936-43t37se64gs5prlsj37p1pb2jfr4b2u7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Us-H0XFiIqQorXFeVjI0tC2vJcSIZsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251425182936-43t37se64gs5prlsj37p1pb2jfr4b2u7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
